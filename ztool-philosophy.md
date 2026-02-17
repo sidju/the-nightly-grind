@@ -27,10 +27,7 @@ standard markdown viewer or static-site generator, and descriptive filenames,
 which while sensitive to renaming are easier to understand. Some non-markdown
 data may be tolerated, with the requirement that it should be usable with more
 generic tools and ideally make sense when read, but more usually an alternate
-solution will be created using standard markdown. For example one could link to
-a note with the name of a tag instead of using tags, that link can be searched
-for generally and a tool with support for just backlinks will make it work
-about the same as if it were a tag.
+solution will be created using standard markdown.
 
 This gives an advantage that the notes can be somewhat discovered and viewed
 without specialized tools, but even so the most effective browsing experience
