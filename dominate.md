@@ -22,7 +22,7 @@ of events and the world to make sense with your command.
 
 With eye contact you can place a target with less
 [Mental Ability](mental-ability.md) than you into a suggestible hypnotic state.
-While in this state the don't remember what they are told, but they will obey.
+While in this state they don't remember what they are told, but they will obey.
 They can be given a long and complex task taking up to a night. They will feel
 compelled to follow the instructions, but kindred can resist them if obeying
 would be immediately dangerous. A typical use is ordering a human to "Follow me,

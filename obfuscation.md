@@ -8,7 +8,7 @@ if someone looks at it when you are not there or not projecting the effect.
 
 ### 1: Cloak of Night
 
-You can sweep disinterest around you so firmly your aren't even noticed, people
+You can sweep disinterest around you so firmly you aren't even noticed, people
 will walk around you without thinking anything of it. Those who have already
 noticed you will however still perceive you.
 
