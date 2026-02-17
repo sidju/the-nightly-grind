@@ -31,9 +31,10 @@ than a minibus, the effect persists until sunrise.
 
 You can extend your control of how people perceive you to others through
 touch, by holding onto them when hiding your presence you can hide them.
-You can hide one target beyond yourself per 3 [Mental Ability](#mental-ability).
-Those you are directly holding with your hands are hidden at level 2 of
-Obfuscation, those holding onto you are hidden at level 1 of Obfuscation.
+You can hide one target beyond yourself per 3
+[Mental Ability](mental-ability.md). Those you are directly holding with your
+hands are hidden at level 2 of Obfuscation, those holding onto you are hidden at
+level 1 of Obfuscation.
 
 ### 3: Oubliette
 

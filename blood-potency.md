@@ -1,5 +1,7 @@
 # Blood Potency (BP)
 
+#rules
+
 Blood Potency is the strength of your vampiric blood. A higher blood potency
 enables you to have more ghouls, use multiple disciplines at once, endure more
 damage and heal faster.
@@ -10,4 +12,4 @@ damage and heal faster.
 - Your healing rate is multiplied by your BP.
 - Your damage from [Banes](banes.md) is multiplied by your BP.
 - BP makes you wake later and go to sleep earlier (reduces Organizational
-  Ability).
+  Ability by 2 for each BP).

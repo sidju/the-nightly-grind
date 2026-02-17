@@ -11,7 +11,7 @@ own volition. Mortals are willing to do up to an hours work for you.
 
 ### 1: Command
 
-If you have more [Mental Ability](#mental-ability) than your target and eye
+If you have more [Mental Ability](mental-ability.md) than your target and eye
 contact you bind them, forcing them to obey a short command. Supernatural
 creatures notice that you did something to them, but even so cannot resist
 and compulsively obey. Mortals will make up explanations for their actions
@@ -30,15 +30,15 @@ obey my orders and forget everything at sunrise.".
 
 ### 2: Entombed Command
 
-Through [Mesmerize](#2:-Mesmerize) you can give a target a specific triggering
-circumstance and a [Command](#command) to obey when those circumstances arise.
+Through [Mesmerize](#2-Mesmerize) you can give a target a specific triggering
+circumstance and a [Command](#1-command) to obey when those circumstances arise.
 A typical use might be "If you hear someone plotting against me, *inform me*.".
 The effect lasts for one night on kindred and one week on humans.
 
 ### 3: Decree
 
 You can issue a loud and clear decree, all directly spoken to by you who have less
-[Mental Ability](#mental-ability) than you can be affected by any other Dominate
+[Mental Ability](mental-ability.md) than you can be affected by any other Dominate
 power you choose. You need to clearly decree the effect it should have, affected
 targets don't remember what you have said while those unaffected do. Example:
 "Don't speak to Jonah tonight.", those affected strongly feel like not doing it
@@ -47,5 +47,5 @@ while those unaffected instead heard the order.
 ### 3: Forgetful Mind
 
 You are powerful enough to change the memories of supernatural creatures. This
-can both be done as a simple but possibly large change via [Command](#command) or as a more
-detailed change via [Mesmerize](#mesmerize).
+can both be done as a simple but possibly large change via [Command](#1-command)
+or as a more detailed change via [Mesmerize](#2-mesmerize).

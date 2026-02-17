@@ -1,5 +1,7 @@
 # Combat
 
+#index #rules
+
 Combat is structured into [Combat Rounds](#combat-rounds), where each round
 allows each side to act in order of [Initiative](#initiative).
 
@@ -54,7 +56,3 @@ Weapon damage * 2
 ### Long range damage
 
 Weapon damage * 1
-
-
-
-#physical-challenges

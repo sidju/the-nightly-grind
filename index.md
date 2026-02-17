@@ -1,8 +1,4 @@
 # Home Page
 
-- [Character sheet breakdown](character-sheet.md)
-- [Combat](combat.md)
-- [Brawl](brawl.md)
-- [Powers of the blood](powers-of-the-blood.md)
-- [Equipment](equipment.md)
-- [XP](xp.md)
+The following are merely some starting points to explore the rules, feel free to
+search for anything specific.

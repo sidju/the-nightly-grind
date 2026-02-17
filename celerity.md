@@ -5,7 +5,8 @@
 ### Passive effect
 
 For each level of Celerity your reaction speed improves, allowing you to react
-in-time with anyone using the same level. This means you are likely to win [Initiative](combat.md#initiative) in combat.
+in-time with anyone using the same level. This means you are likely to win
+[Initiative](combat.md#initiative) in combat.
 
 ### Active effect
 

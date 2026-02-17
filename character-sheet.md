@@ -1,6 +1,6 @@
 # Character Sheet breakdown
 
-#rules #character-creation
+#index #rules
 
 This page explains all values that normally appear on a character sheet.
 (And contains a simple example character sheet at the bottom.)

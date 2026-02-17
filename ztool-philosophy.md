@@ -1,6 +1,6 @@
 # Zettelkästen tool philosophy
 
-#zettelkästen #markdown
+#zettelkästen
 
 The choice of tooling in a Zettelkästen directory very much defines how it needs
 to be structured. Since a core principle of digital Zettelkästen is that the

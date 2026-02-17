@@ -31,7 +31,7 @@ that time.
 
 ### 3: Waking Nightmare
 
-You cast a target with less [Mental Ability](#mental-ability) than you into a
+You cast a target with less [Mental Ability](mental-ability.md) than you into a
 nightmarish illusion of your making. You can freely control what of their
 surroundings they see and what you show them instead, but the longer they look
 the more unsettling things become, even things that are real warp into horror.
@@ -40,7 +40,7 @@ These illusions persist as long as you are there to maintain them.
 ### 3: Mortal Terror
 
 You can wield fear so potent it causes physical harm. Even a target with
-more [Mental Ability](#mental-ability) than you freezes in terror, and those
+more [Mental Ability](mental-ability.md) than you freezes in terror, and those
 with less feel their heart stop as the fear tears into their body dealing
-one damage for every three points of [Mental Ability](#mental-ability) you
+one damage for every three points of [Mental Ability](mental-ability.md) you
 have.

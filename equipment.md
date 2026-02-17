@@ -1,5 +1,7 @@
 # Equipment
 
+#index #rules
+
 ## Armor
 
 Armor provides some extra [HP](hp.md) that is used up before your own, at the cost of

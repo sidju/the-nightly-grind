@@ -1,7 +1,10 @@
 # XP costs
 
-Here follows a table mapping each [stat](stats.md) that can be bought for XP
-to the number of XP it costs.
+#rules
+
+Here follows a table mapping each stat that can be bought for XP
+to the number of XP it costs. See the [character sheet page](character-sheet.md)
+for descriptions of what they all mean.
 
 | Stat                   | XP cost   |
 |------------------------|-----------|

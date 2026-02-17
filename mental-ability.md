@@ -1,5 +1,7 @@
 # Mental Ability
 
+#rules
+
 Mental ability defines your ability to win mental challenges. It covers both
 willpower and whatever mental techniques may help in a mental challenge.
 

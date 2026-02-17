@@ -1,5 +1,8 @@
 generate:
   md-wiki \
+    --ignore-paths output \
+    --ignore-paths ".*" \
+    --ignore-paths "*.draft.md" \
     --index-filename resources/search-data.js \
     . \
     output

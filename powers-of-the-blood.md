@@ -1,5 +1,7 @@
 # Powers of the Blood
 
+#index #rules
+
 ## Inherent
 
 These are the powers all kindred possess and instinctively know how to use.
