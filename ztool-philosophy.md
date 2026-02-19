@@ -43,5 +43,5 @@ I've elected for the more Agnostic option for the following reason:
 - Any markdown editor/viewer is good enough for basic navigation (open files by
   name and follow links).
 
-The tools I've chosen are described on the [Index page](README.md) along with
-key considerations in how they are configured and used.
+The tools I've chosen are described in the [readme](README.md) along with key
+considerations in how they are configured and used.

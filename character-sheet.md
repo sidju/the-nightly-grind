@@ -66,6 +66,7 @@ Thereafter one table follows for both [Powers](powers-of-the-blood.md) and
 | Name            | John Johnson |
 | Human age       | 58 years     |
 | Date of Embrace | 2002-03-12   |
+| Clan            | Dhaeva       |
 | Time in torpor  | none         |
 
 
