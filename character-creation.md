@@ -27,12 +27,12 @@ Character creation begins with a simple rule, all characters with supernatural
 essence in them have the highest humanly possible value for every stat. Those
 values are:
 
-| Stat                                                | value |
-| --------------------------------------------------- | ----- |
-| [HP](hp.md)                                         | 6     |
-| [Mental Ability](mental-ability.md)                 | 6     |
-| [Physical Ability](physical-ability.md)             | 6     |
-| [Organizational Ability](organizational-ability.md) | 3     |
+| Stat                                                     | value |
+| -------------------------------------------------------- | ----- |
+| [HP](hp.md)                                              | 6     |
+| [Mental Ability (MA)](mental-ability.md)                 | 6     |
+| [Physical Ability (PA)](physical-ability.md)             | 6     |
+| [Organizational Ability (OA)](organizational-ability.md) | 3     |
 
 
 ## Humanity
@@ -61,4 +61,22 @@ note the the unique choices you can use to shape your character:
 - [Powers](powers-of-the-blood.md)
 
 Characters gain 2 XP per active year of existence. View the
-[XP document](xp.md) for what you can spend it on.
+[XP page](xp.md#using-xp) for what you can spend it on.
+
+
+## Calculated values
+
+Finally when you have all your stats you are recommended to note down your
+maximal damage output and what kind of weapon is required to raise it by 1.
+
+You can deal one damage per 3 [PA](physical-ability.md) (divide by 3, round
+down) + one per level of [Potence](potence.md). Note down that number as your
+"Damage".
+
+As you calculated damage from [PA](physical-ability.md) you probably noted that
+you would need another 1 to 3 PA to raise your damage by 1, that number is the
+"Significant Weapon Bonus". If you use a weapon that provides that bonus or
+higher you deal one extra damage per round.
+
+These in structions in shorter form are also written in the
+[character sheet page](character-sheet.md).

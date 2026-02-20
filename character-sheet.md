@@ -55,6 +55,17 @@ their purposes. For a listing of the influences see the
 society works see the [Influence System page](influence-system.md).
 
 
+## Calculated values
+
+Optionally you are recommended to write down some calculated values:
+
+- Unarmed Melee Damage:
+  [PA](physical-ability.md) / 3 + levels in [Potence](potence.md)
+- Significant Weapon Bonus:
+  Bonus a weapon needs to provide to raise your damage by 1, which it does when
+  your PA + bonus is evenly divisible by 3.
+
+
 ## Example sheet
 
 Divided into character info first, then stats in their own table.
@@ -90,3 +101,9 @@ Thereafter one table follows for both [Powers](powers-of-the-blood.md) and
 |------------|-------|
 | Celerity   | 2     |
 | Potence    | 1     |
+
+
+| Calculated values        |     |
+| ------------------------ | --- |
+| Damage                   | 3   |
+| Significant Weapon Bonus | 3   |

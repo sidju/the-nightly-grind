@@ -14,8 +14,8 @@ damage and heal faster.
 - You gain 6 peak HP per BP.
 - Your healing rate is multiplied by your BP.
 - Your damage from [Banes](banes.md) is multiplied by your BP.
-- BP makes you wake later and go to sleep earlier (reduces Organizational
-  Ability by 2 for each BP).
+- Every BP beyond the first makes you sleep one hour more per day (reduces
+  Organizational Ability by 2 for each BP beyond 1).
 
 
 ## Gaining Blood Potency
