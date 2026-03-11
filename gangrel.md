@@ -10,9 +10,9 @@ Other Kindred sometimes underestimate them for this. That is usually a mistake.
 
 Their disciplines are:
 
+- **[Protean](protean.md)**
 - [Animalism](animalism.md)
-- [Protean](protean.md)
-- [Potence](potence.md)
+- [Fortitude](fortitude.md)
 
 ## Weakness
 

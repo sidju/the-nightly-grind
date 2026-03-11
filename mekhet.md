@@ -9,7 +9,7 @@ already know what you are about to say.
 
 Their disciplines are:
 
-- [Auspex](auspex.md)
+- **[Auspex](auspex.md)**
 - [Celerity](celerity.md)
 - [Obfuscation](obfuscation.md)
 

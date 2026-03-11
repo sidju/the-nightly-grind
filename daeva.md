@@ -10,8 +10,8 @@ both.
 
 Their disciplines are:
 
+- **[Presence](presence.md)**
 - [Celerity](celerity.md)
-- [Presence](presence.md)
 - [Potence](potence.md)
 
 ## Weakness

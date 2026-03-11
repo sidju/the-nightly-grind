@@ -10,8 +10,8 @@ other things, and they have been doing it for a very long time.
 
 Their disciplines are:
 
+- **[Dominate](dominate.md)**
 - [Animalism](animalism.md)
-- [Dominate](dominate.md)
 - [Fortitude](fortitude.md)
 
 ## Weakness

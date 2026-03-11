@@ -11,7 +11,7 @@ extremely resourceful. Often both.
 
 Their disciplines are:
 
-- [Nightmare](nightmare.md)
+- **[Nightmare](nightmare.md)**
 - [Obfuscation](obfuscation.md)
 - [Potence](potence.md)
 
