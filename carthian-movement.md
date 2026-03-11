@@ -1,6 +1,6 @@
 # Carthian Movement
 
-#lore #covenant
+#lore #covenants
 
 The Carthians are the youngest of the major covenants and the most overtly
 political in a mortal sense. Where other covenants draw from theology,

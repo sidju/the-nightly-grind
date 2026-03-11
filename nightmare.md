@@ -40,6 +40,7 @@ These illusions persist as long as you are there to maintain them.
 ### 3: Mortal Terror
 
 You can wield fear so potent it causes physical harm. Even a target with more
-[Mental Ability](mental-ability.md) than you freezes in terror, and those with
-less feel their heart stop as the fear tears into their body dealing one damage
-for every three points of [Mental Ability](mental-ability.md) you have.
+[Mental Ability](mental-ability.md) than you freezes in terror for a moment, and
+those with less feel their heart stop as the fear tears into their body dealing
+one damage for every three points of [Mental Ability](mental-ability.md) you
+have.

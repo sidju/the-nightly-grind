@@ -28,8 +28,9 @@ interaction with the environment (such as opening a door) or pointed out to you.
 
 You restructure your thoughts until they align with your target, allowing a
 quick touch to create a link to their mind. This link allows communication both
-ways and makes it possible for you to try to overwhelm their mind and possibly
-to reveal suppressed memories.
+ways and makes it possible to try to overwhelm a linked mind. Both linked
+characters count as having physical and eye contact with each other for the
+purpose of other powers.
 
 ## 3: Pierce the Veil
 

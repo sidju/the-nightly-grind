@@ -16,8 +16,8 @@ If you have more [Mental Ability](mental-ability.md) than your target and eye
 contact you bind them, forcing them to obey a short command. Supernatural
 creatures notice that you did something to them, but even so cannot resist and
 compulsively obey. Mortals will make up explanations for their actions and take
-any statement you give as an absolute truth, reshaping their view of events and
-the world to make sense with your command.
+any statement you give as an absolute truth, permanently reshaping their view of
+events and the world to make sense with your command.
 
 ### 2: Mesmerize
 

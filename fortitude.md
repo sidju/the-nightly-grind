@@ -10,5 +10,6 @@ as normal damage (reduced by Fortitude as usual).
 
 ### Utility
 
-Fortitude allows you to resist even mental assault, when defending treat your
-[Mental Ability](mental-ability.md) as 2 higher for every level in Fortitude.
+Fortitude allows you to resist even mental assault, when defending against any
+power that compares against your [Mental Ability](mental-ability.md) treat it as
+2 higher for every level in Fortitude.

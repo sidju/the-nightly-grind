@@ -1,6 +1,6 @@
 # Invictus
 
-#lore #covenant
+#lore #covenants
 
 The Invictus are the old guard. Where other covenants are defined by belief,
 practice, or ideology, the Invictus are defined by power: its acquisition, its

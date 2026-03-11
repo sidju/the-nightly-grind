@@ -1,6 +1,6 @@
 # Circle of the Crone
 
-#lore #covenant
+#lore #covenants
 
 The Circle of the Crone are the oldest heresy in Kindred society — older, they
 claim, than the word heresy itself. They are a covenant of witches, mystics, and

@@ -1,6 +1,6 @@
 # Ordo Dracul
 
-#lore #covenant
+#lore #covenants
 
 The Ordo Dracul are scholars and ascetics, the covenant of those who refuse to
 accept the limits of their condition. Where other covenants make their peace

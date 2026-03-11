@@ -16,10 +16,21 @@ ground can be absorbed without coming out.
 
 You allow the beast to slip through your very form, making an animalistic change
 to your shape that makes you better suited to hunt in the night. Typical changes
-are senses, mundane claws, hardy skin/armor, quadrupedal limbs or patagia
-(gliding skin). The change cannot be reverted, they revert naturally at sunrise
-or can be cut off and the damage healed to return to normal. A new change cannot
-be chosen while another is in effect.
+are:
+
+| Source            | Effect                                            |
+| ----------------- | ------------------------------------------------- |
+| Senses            | Heightened perception                             |
+| Mundane claws     | +3 weapon bonus                                   |
+| Hardy skin        | +4 HP                                             |
+| Quadrupedal limbs | Improved stability and running speed              |
+| Patagia           | Gliding capability, no fall damage                |
+| Wall climbing     | Spider-like adhesion to vertical surfaces         |
+| Prehensile tail   | Improved balance and an additional grappling limb |
+
+The change cannot be reverted, they revert naturally at sunrise or can be cut
+off and the damage healed to return to normal. A new change cannot be chosen
+while another is in effect.
 
 ### 2: Predatory Form
 
@@ -33,8 +44,23 @@ form, it is painful but not excessively and not harmful.
 ### 2: Horrid Aspect
 
 You allow even more of the beast to slip through your form, be it animal or
-human, corrupting it with a horrifying supernatural aspect. Typical changes are
-supernaturally harmful claws/teeth or wings capable of flight.
+human, corrupting it with a horrifying supernatural aspect. Horrid Aspect can be
+active alongside Predatory Aspect, provided they do not affect the same body
+part.
+
+| Source                      | Effect                                       |
+| --------------------------- | -------------------------------------------- |
+| Claws, teeth, or bone spurs | +5 weapon bonus                              |
+| Vitae poison (black)        | [Aggravated](aggravated.md) damage           |
+| Vitae poison (red)          | Forces vitae imbibition (blood bond)         |
+| Extra limbs                 | Additional limbs for weapons or grappling    |
+| Elongated arms or fingers   | Extended melee reach                         |
+| Unhinged jaw                | Widened, ferocious bite                      |
+| Tentacles                   | Grappling and entangling limbs               |
+| Chitinous armor             | +6 HP                                        |
+| Thick slime                 | +4 HP, significantly harder to grip or stake |
+| Wings                       | Flight                                       |
+| Void eyes                   | Enhanced sight, eye contact impossible       |
 
 ### 3: Primal Miasma
 
@@ -47,7 +73,12 @@ evaporate and disappear into thin air, but you cannot cause any damage.
 ### 3: Horrid Form
 
 You allow the beast to fully shape you, taking on a monstrous form unique to
-you. This form is what your beast perceives as the perfect predator, usually
-including expanded senses, faster movement and greater ability in combat. The
-transformation swells and elongates you, and when you wish it reverts and
-seemingly deflates you into your normal form.
+you. This form allows you to add your blood potency in additional Predatory or
+Horrid Aspects on top of the base one already granted (aka. 2 + BP total). These
+additional Aspects are allowed to reinforce preexisting aspects once, to for
+example give double the claw bonus or wings strong enough to carry others.
+
+Players are encouraged to write down a description of their chosen combination
+and its resulting appearance (and should feel free to throw in any number of
+additional visual aspects). Remember that the form is an amalgam of predation
+and horror, only the most selective or deranged viewer can see any beauty in it.

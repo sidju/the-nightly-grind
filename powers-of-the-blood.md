@@ -17,10 +17,10 @@ mundane creatures and kindred with less Blood Potency than the one biting.
 
 ### Blush of Life
 
-At the cost of vitae you can be indistinguishable from humans. While active your
-body has all natural functions of the human body one would expect, you can even
-eat and drink as though human (but anything but blood will be violently ejected
-when Blush of Life ends).
+At an ongoing cost of vitae you can be indistinguishable from humans. While
+active your body has all natural functions of the human body one would expect,
+you can even eat and drink as though human (but anything but blood will be
+violently ejected when Blush of Life ends).
 
 ### Taste for Blood
 
@@ -44,5 +44,5 @@ the following:
 - Competitive, challenge their skill or honor while your beast encourages them
   to prove themselves and show off.
 
-On kindred this manifests as a push in that direction, for humans it has a more
-forceful impact.
+On kindred this manifests as a push in that direction, for humans it rises to a
+compulsion.

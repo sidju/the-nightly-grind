@@ -1,6 +1,6 @@
 # Lancea et Sanctum
 
-#lore #covenant
+#lore #covenants
 
 The Sanctified are the most overtly religious of the covenants, viewing vampiric
 existence not as a curse but as a divine mandate. They are God's instruments:
