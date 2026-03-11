@@ -9,21 +9,20 @@ You can perceive primary emotions.
 ## 1: The Beast's Hackles
 
 Your beast senses when something is wrong, when someone or something big is
-hidden, but cannot tell you what. It exhibits as a feeling of being watched or
-a sense of deja-vu.
+hidden, but cannot tell you what. It exhibits as a feeling of being watched or a
+sense of deja-vu.
 
 ## 2: The Spirit's Touch
 
-By touching your victim you can more deeply read their thoughts, allowing you
-to tell the reason for their primary emotion OR if they have lied to you in
-this conversation.
+By touching your victim you can more deeply read their thoughts, allowing you to
+tell the reason for their primary emotion OR if they have lied to you in this
+conversation.
 
 ## 2: See the Unseen
 
 Your senses can pierce some illusions. For example you can see through level 1
-[Obfuscation](obfuscation.md) and level 2 *if* weakened by movement, very
-recent interaction with the environment (such as opening a door) or pointed out
-to you.
+[Obfuscation](obfuscation.md) and level 2 _if_ weakened by movement, very recent
+interaction with the environment (such as opening a door) or pointed out to you.
 
 ## 3: Lay Open the Mind
 
@@ -35,6 +34,5 @@ to reveal suppressed memories.
 ## 3: Pierce the Veil
 
 Your senses can pierce most illusions. For example you can see through level 2
-[Obfuscation](obfuscation.md) and level 3 *if* weakened by movement, very
-recent interaction with the environment (such as opening a door) or pointed out
-to you.
+[Obfuscation](obfuscation.md) and level 3 _if_ weakened by movement, very recent
+interaction with the environment (such as opening a door) or pointed out to you.

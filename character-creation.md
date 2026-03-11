@@ -1,11 +1,9 @@
 # Character Creation
 
-#index
-#rules
+#index #rules
 
 Follow the instructions below to fill in a
 [character sheet](character-sheet.md#example-sheet).
-
 
 ## Background info
 
@@ -20,7 +18,6 @@ Enter:
 Note that though it is possible for your time in torpor to increase, these
 values are expected to remain unchanged throughout the characters life.
 
-
 ## Stats Foundation
 
 Character creation begins with a simple rule, all characters with supernatural
@@ -34,14 +31,12 @@ values are:
 | [Physical Ability (PA)](physical-ability.md)             | 6     |
 | [Organizational Ability (OA)](organizational-ability.md) | 3     |
 
-
 ## Humanity
 
-Humans are [Humanity](humanity.md) 7, but supernatural existence quickly
-drains that out of most characters. Look at the [Humanity page](humanity.md)
-and choose the level you think your character is likely to have stopped their
-descent at, or possibly reclaimed after a further fall.
-
+Humans are [Humanity](humanity.md) 7, but supernatural existence quickly drains
+that out of most characters. Look at the [Humanity page](humanity.md) and choose
+the level you think your character is likely to have stopped their descent at,
+or possibly reclaimed after a further fall.
 
 ## Blood Potency
 
@@ -51,18 +46,16 @@ descent at, or possibly reclaimed after a further fall.
 Then apply the [Effects of Blood Potency](blood-potency.md#effects) on your
 character's stats before proceeding.
 
-
 ## Loose XP
 
-Finally you are free to spend XP based on your characters age. Especially
-note the the unique choices you can use to shape your character:
+Finally you are free to spend XP based on your characters age. Especially note
+the the unique choices you can use to shape your character:
 
 - [Influence](influence.md)
 - [Powers](powers-of-the-blood.md)
 
 Characters gain 24 XP as a base and 2 XP per active year of existence. View the
 [XP page](xp.md#using-xp) for what you can spend it on.
-
 
 ## Calculated values
 

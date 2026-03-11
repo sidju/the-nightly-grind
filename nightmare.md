@@ -24,10 +24,10 @@ those who resist shy away from you for a few minutes.
 ### 2: Haunting
 
 You can embed a raw formless fear into the mind of a target with less
-[Mental Ability](mental-ability.md) than you, making them feel a disconcerted and
-worried as long as the effect persists. It affects kindred for the rest of the
-night, but humans are affected for a week and will struggle to sleep at all in
-that time.
+[Mental Ability](mental-ability.md) than you, making them feel a disconcerted
+and worried as long as the effect persists. It affects kindred for the rest of
+the night, but humans are affected for a week and will struggle to sleep at all
+in that time.
 
 ### 3: Waking Nightmare
 
@@ -39,8 +39,7 @@ These illusions persist as long as you are there to maintain them.
 
 ### 3: Mortal Terror
 
-You can wield fear so potent it causes physical harm. Even a target with
-more [Mental Ability](mental-ability.md) than you freezes in terror, and those
-with less feel their heart stop as the fear tears into their body dealing
-one damage for every three points of [Mental Ability](mental-ability.md) you
-have.
+You can wield fear so potent it causes physical harm. Even a target with more
+[Mental Ability](mental-ability.md) than you freezes in terror, and those with
+less feel their heart stop as the fear tears into their body dealing one damage
+for every three points of [Mental Ability](mental-ability.md) you have.

@@ -5,18 +5,19 @@
 ### 1: Request
 
 With eye contact and a soft request you bind a target with less
-[Mental Ability](mental-ability.md) than you, making them subconsciously inclined to fulfil it.
-Kindred spontaneously fulfil small requests, thinking it was of their
-own volition. Mortals are willing to do up to an hours work for you.
+[Mental Ability](mental-ability.md) than you, making them subconsciously
+inclined to fulfil it. Kindred spontaneously fulfil small requests, thinking it
+was of their own volition. Mortals are willing to do up to an hours work for
+you.
 
 ### 1: Command
 
 If you have more [Mental Ability](mental-ability.md) than your target and eye
 contact you bind them, forcing them to obey a short command. Supernatural
-creatures notice that you did something to them, but even so cannot resist
-and compulsively obey. Mortals will make up explanations for their actions
-and take any statement you give as an absolute truth, reshaping their view
-of events and the world to make sense with your command.
+creatures notice that you did something to them, but even so cannot resist and
+compulsively obey. Mortals will make up explanations for their actions and take
+any statement you give as an absolute truth, reshaping their view of events and
+the world to make sense with your command.
 
 ### 2: Mesmerize
 
@@ -32,7 +33,7 @@ obey my orders and forget everything at sunrise.".
 
 Through [Mesmerize](#2-Mesmerize) you can give a target a specific triggering
 circumstance and a [Command](#1-command) to obey when those circumstances arise.
-A typical use might be "If you hear someone plotting against me, *inform me*.".
+A typical use might be "If you hear someone plotting against me, _inform me_.".
 The effect lasts for one night on kindred and one week on humans.
 
 ### 3: Decree

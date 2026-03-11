@@ -19,17 +19,17 @@ animals or one specific species. The effect remains until consumed or sunrise.
 ## 2: Raise the Familiar
 
 You can make your blood able to raise a recently dead animal to a state of
-undeath. They are similar to kindred but can only be sustained on vitae, and
-the wounds that killed them remain visible.
+undeath. They are similar to kindred but can only be sustained on vitae, and the
+wounds that killed them remain visible.
 
 ## 3: Feral Infection
 
 You can spill your blood and through it spread your beast through your
 surroundings, whipping animals and humans into a rage. Supernatural creatures
-can resist if they have higher Blood Potency than you, but if they have
-imbibed your blood your Blood Potency counts as 2 higher. Those frenzied by
-this are to some extent under your command, you can direct them towards a
-target or a group. If you don't they will fight internally.
+can resist if they have higher Blood Potency than you, but if they have imbibed
+your blood your Blood Potency counts as 2 higher. Those frenzied by this are to
+some extent under your command, you can direct them towards a target or a group.
+If you don't they will fight internally.
 
 ## 3: Lord of the Land
 
@@ -40,5 +40,5 @@ dread and urge to flee the area and will struggle to remain. You are
 instinctively aware of creatures entering the territory, only blind to those
 hidden by [Obfuscate](obfuscation.md). Within this area you can see through the
 eyes of animal blood servants and act through them, though limited by their
-body.
-If territories conflict the one with higher Blood Potency takes precedence.
+body. If territories conflict the one with higher Blood Potency takes
+precedence.

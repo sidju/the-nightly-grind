@@ -1,10 +1,10 @@
 # Zettelkästen notes
+
 #zettelkästen
 
 This is a linked repository of assorted notes. They are somewhat navigable from
 this file via links, but are best browsed with a dedicated tool or as a
 generated page, so that backlinks and tags are browseable.
-
 
 ## Recommended tools
 

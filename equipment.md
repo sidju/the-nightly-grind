@@ -4,11 +4,11 @@
 
 ## Armor
 
-Armor provides some extra [HP](hp.md) that is used up before your own, at the cost of
-being increasingly obvious.
+Armor provides some extra [HP](hp.md) that is used up before your own, at the
+cost of being increasingly obvious.
 
 | HP bonus | Category description   |
-|----------|------------------------|
+| -------- | ---------------------- |
 | \+ 2     | Discrete armored vest  |
 | \+ 4     | Thick armored vest     |
 | \+ 6     | Modern full-body armor |
@@ -16,11 +16,12 @@ being increasingly obvious.
 
 ## Melee weapons
 
-Melee weapons provide a *Weapon Bonus* to your [Physical Ability](physical-ability.md) when used, which
-may increase damage but isn't sure to do so.
+Melee weapons provide a _Weapon Bonus_ to your
+[Physical Ability](physical-ability.md) when used, which may increase damage but
+isn't sure to do so.
 
 | Weapon bonus | Category description | Example weapons      |
-|--------------|----------------------|----------------------|
+| ------------ | -------------------- | -------------------- |
 | \+ 1         | Easy to hide/explain | Knife, Walking stick |
 | \+ 2         | Possible to hide     | Sword, Axe, Mace     |
 | \+ 3         | Impossible to hide   | Huge sword, signpost |
@@ -29,12 +30,13 @@ may increase damage but isn't sure to do so.
 
 Ranged weapons simply deal a fix damage and are rarely as lethal as a melee
 combatant, but for those unwilling to enter / lacking Physical Ability to be
-efficient in melee it is something. Note that weapons deal double damage if the target is within close range, so for a risk quite good damage can be had.
+efficient in melee it is something. Note that weapons deal double damage if the
+target is within close range, so for a risk quite good damage can be had.
 
 Ranged weapons require that the user is proficient with the weapon.
 
 | Weapon            | Damage | Special rules                        |
-|-------------------|--------|--------------------------------------|
+| ----------------- | ------ | ------------------------------------ |
 | Handgun           | 1      | Can be used in melee                 |
 | Hunting rifle     | 2      |                                      |
 | Assault rifle     | 2      |                                      |

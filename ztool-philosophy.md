@@ -37,7 +37,7 @@ for any zettelkästen is with a tool that can generate backlinks.
 
 I've elected for the more Agnostic option for the following reason:
 
-- Easier to navigate and write by hand in a minimal text-editor. 
+- Easier to navigate and write by hand in a minimal text-editor.
 - When/if I save my zettelkästen notes on github or similar they are readable
   and somewhat navigable right there.
 - Any markdown editor/viewer is good enough for basic navigation (open files by

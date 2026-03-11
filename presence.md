@@ -9,16 +9,16 @@ weigh a little heavier than otherwise.
 
 ### 1: Shame
 
-You can turn your charm against another, shaming them for something. If they have
-less [Mental Ability](mental-ability.md) than you they will feel guilty and
+You can turn your charm against another, shaming them for something. If they
+have less [Mental Ability](mental-ability.md) than you they will feel guilty and
 ashamed even if what you shamed them for was nonsense. "If you said it it must
 be true."
 
 ### 2: Confidant
 
 With a deep gaze you can charm a target with less
-[Mental Ability](mental-ability.md) than you to think of you as a trustworthy and
-kind, making them more likely to entrust you with their secrets.
+[Mental Ability](mental-ability.md) than you to think of you as a trustworthy
+and kind, making them more likely to entrust you with their secrets.
 
 ### 2: Obsession
 

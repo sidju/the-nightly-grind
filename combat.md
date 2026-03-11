@@ -15,7 +15,6 @@ Combat is a true battle where characters deal damage to each other, for
 non-lethal duels or brawls instead refer to the [Brawl rules](brawl.md) which
 cover such cases better.
 
-
 ## Initiative
 
 To decide an initiative order use the following rules in order:
@@ -29,30 +28,26 @@ To decide an initiative order use the following rules in order:
 There is no bonus damage dealt on surprise attacks, Initiative is deemed a large
 enough advantage.
 
-
 ## Combat Rounds
 
-When your turn comes up in a round you can *move* once and do one of the
+When your turn comes up in a round you can _move_ once and do one of the
 following:
 
 - Melee attack, if your target is within reach.
 - Ranged attack, if you aren't in melee.
 - Use a discipline, if it is usable in a rush.
 
-
 ## Melee damage
 
-Melee damage = (Physical Ability + Weapon Bonus (if any)) / 3 (round down) + level of Potence
-
+Melee damage = (Physical Ability + Weapon Bonus (if any)) / 3 (round down) +
+level of Potence
 
 ## Ranged damage
 
-
 ### Close range damage
 
-Weapon damage * 2
-
+Weapon damage \* 2
 
 ### Long range damage
 
-Weapon damage * 1
+Weapon damage \* 1
