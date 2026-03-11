@@ -37,12 +37,9 @@ The effect lasts for one night on kindred and one week on humans.
 
 ### 3: Decree
 
-You can issue a loud and clear decree, all directly spoken to by you who have less
-[Mental Ability](mental-ability.md) than you can be affected by any other Dominate
-power you choose. You need to clearly decree the effect it should have, affected
-targets don't remember what you have said while those unaffected do. Example:
-"Don't speak to Jonah tonight.", those affected strongly feel like not doing it
-while those unaffected instead heard the order.
+You can issue a loud and clear decree, everyone who sees and hears you who have
+less [Mental Ability](mental-ability.md) than you are affected as by
+[Command](#1-command).
 
 ### 3: Forgetful Mind
 

@@ -60,7 +60,7 @@ note the the unique choices you can use to shape your character:
 - [Influence](influence.md)
 - [Powers](powers-of-the-blood.md)
 
-Characters gain 2 XP per active year of existence. View the
+Characters gain 24 XP as a base and 2 XP per active year of existence. View the
 [XP page](xp.md#using-xp) for what you can spend it on.
 
 

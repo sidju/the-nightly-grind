@@ -24,7 +24,6 @@ The prices for them can be seen in the following table:
 | [Organizational Ability](organizational-ability.md) | 4         |
 | [HP](hp.md)                                         | 3         |
 | [Humanity](humanity.md)                             | 7         |
-| [Lore](lore.md)                                     | 3         |
 | Any [Influence](influence.md)                       | 4         |
 
 XP costs for powers increase for each level, and Clan powers are significantly
