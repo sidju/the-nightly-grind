@@ -13,9 +13,9 @@ encouraged to seek information in-game.
 
 For as long as anyone cares to remember, this domain has been an afterthought.
 Not empty — a handful of independents have kept it in some loose order — but
-beneath the notice of the great Covenants. It has no seat of power worth
-coveting, no ancient lineage to court, no strategic position worth a long
-letter, let alone a contingent.
+beneath the notice of the great [Covenants](covenants.md). It has no seat of
+power worth coveting, no ancient lineage to court, no strategic position worth a
+long letter, let alone a contingent.
 
 That is changing.
 
@@ -35,8 +35,8 @@ measure, have each dispatched their own small contingents — three apiece. Thei
 motives differ. The Circle comes to stand with the locals, to protect what has
 grown here outside the strictures of covenant law. The Carthians come to
 observe, and perhaps to ensure that whatever order is imposed here does not go
-unchallenged. Both have an interest in what Lancea is doing here, and why they
-seem to care so much.
+unchallenged. Both have an interest in what [Lancea](lancea-et-sanctum.md) is
+doing here, and why they seem to care so much.
 
 The domain's long quiet is over. Whatever each side claims to want, all of them
 are now here together, watching one another — and yet even combined they remain

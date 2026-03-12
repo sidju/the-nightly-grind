@@ -2,10 +2,10 @@
 
 #lore #covenants
 
-The Sanctified are the most overtly religious of the covenants, viewing vampiric
-existence not as a curse but as a divine mandate. They are God's instruments:
-set apart to test, tempt, and punish the living, and to maintain the boundary
-between the mortal world and the darkness beneath it.
+The Sanctified are the most overtly religious of the [covenants](covenants.md),
+viewing vampiric existence not as a curse but as a divine mandate. They are
+God's instruments: set apart to test, tempt, and punish the living, and to
+maintain the boundary between the mortal world and the darkness beneath it.
 
 ## The Sanctified Creed
 

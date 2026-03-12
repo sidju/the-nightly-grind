@@ -10,20 +10,20 @@ take them seriously.
 
 ## NPC Factions
 
-The following are not playable covenants. Their philosophy or nature makes them
-incompatible with collaborative play, but they exist in the world and most
-Kindred know of them. They should be treated as environmental threats and story
-elements rather than factions a character can join.
+The following are not playable [covenants](covenants.md). Their philosophy or
+nature makes them incompatible with collaborative play, but they exist in the
+world and most Kindred know of them. They should be treated as environmental
+threats and story elements rather than factions a character can join.
 
 ### Belial's Brood
 
-Where other covenants make some accommodation with the idea of Kindred society,
-Belial's Brood reject it entirely. They do not seek order, reform, tradition, or
-transcendence — they seek surrender. The Brood teach that the Beast is not a
-curse to be managed or a tool to be wielded but the truest self, and that all
-Kindred who suppress it are living a lie. To be Brood is to feed without
-restraint, destroy without hesitation, and treat all covenant structure as
-weakness dressed up as virtue.
+Where other [covenants](covenants.md) make some accommodation with the idea of
+Kindred society, Belial's Brood reject it entirely. They do not seek order,
+reform, tradition, or transcendence — they seek surrender. The Brood teach that
+the Beast is not a curse to be managed or a tool to be wielded but the truest
+self, and that all Kindred who suppress it are living a lie. To be Brood is to
+feed without restraint, destroy without hesitation, and treat all covenant
+structure as weakness dressed up as virtue.
 
 They are not an organisation in any meaningful sense. There is no hierarchy, no
 territory, no politics. What exists is a scattered cult of like-minded predators

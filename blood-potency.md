@@ -10,11 +10,12 @@ and heal faster.
 
 - You can have two ghouls per Blood Potency point.
 - You can use one power per 2 blood points at the same time, so 2 at BP 3.
-- You gain 6 peak HP per BP.
+- You gain 6 peak [HP](hp.md) per BP.
 - Your healing rate is multiplied by your BP.
 - Your damage from [Banes](banes.md) is multiplied by your BP.
 - Every BP beyond the first makes you sleep one hour more per day (reduces
-  Organizational Ability by 2 for each BP beyond 1).
+  [Organizational Ability](organizational-ability.md) by 2 for each BP beyond
+  1).
 
 ## Gaining Blood Potency
 

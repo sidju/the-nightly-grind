@@ -21,8 +21,8 @@ To decide an initiative order use the following rules in order:
 
 - If the attacker surprised the defender (less than 2 seconds from realization
   to attack): attacker goes first.
-- If any side has more Celerity (total), they go first.
-- If one party has more Physical Ability, they go first.
+- If any side has more [Celerity](celerity.md) (total), they go first.
+- If one party has more [Physical Ability](physical-ability.md), they go first.
 - If everything else ties, flip a coin or play rock-paper-scissors over it.
 
 There is no bonus damage dealt on surprise attacks, Initiative is deemed a large
@@ -35,12 +35,13 @@ following:
 
 - Melee attack, if your target is within reach.
 - Ranged attack, if you aren't in melee.
-- Use a discipline, if it is usable in a rush.
+- Use a [power](powers-of-the-blood.md), if it is usable in a rush.
 
 ## Melee damage
 
-Melee damage = (Physical Ability + Weapon Bonus (if any)) / 3 (round down) +
-level of Potence
+Melee damage = ([Physical Ability](physical-ability.md) +
+[Weapon Bonus](equipment.md#melee-weapons) (if any)) / 3 (round down) + level of
+[Potence](potence.md)
 
 ## Ranged damage
 

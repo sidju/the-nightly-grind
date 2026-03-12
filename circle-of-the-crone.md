@@ -12,8 +12,9 @@ truth: the Kindred are not damned. They are transformed.
 The Circle centres on a goddess figure known only as the Crone: a mother of
 monsters, a maker of hard things, a deity who creates through sacrifice and
 gives power through pain. She is not a comfort. Her gifts are real but never
-free. Where the Lancea et Sanctum see damnation with purpose, the Circle sees
-transformation with cost — and that difference is everything.
+free. Where the [Lancea et Sanctum](lancea-et-sanctum.md) see damnation with
+purpose, the Circle sees transformation with cost — and that difference is
+everything.
 
 Their theology is not singular. The Crone appears in many guises across
 different Circle traditions: a hag, a harvest goddess, a destroyer who is also a
@@ -36,8 +37,8 @@ The Circle traces its roots to pre-Christian religious traditions, claiming to
 be the original form of Kindred spirituality before monotheism imposed its frame
 of damnation and divine purpose. Whether this is literally true is difficult to
 verify, but their practices carry a texture of genuine antiquity. They have been
-persecuted by the Lancea et Sanctum across the centuries and have survived by
-being decentralised: there is no Circle hierarchy easy to behead. They shelter
-outcasts, those who found themselves at odds with other covenants, and vampires
-who simply want to understand what they are without being told what to think
-about it.
+persecuted by the [Lancea et Sanctum](lancea-et-sanctum.md) across the centuries
+and have survived by being decentralised: there is no Circle hierarchy easy to
+behead. They shelter outcasts, those who found themselves at odds with other
+[covenants](covenants.md), and vampires who simply want to understand what they
+are without being told what to think about it.

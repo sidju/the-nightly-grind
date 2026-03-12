@@ -13,7 +13,8 @@ most kindred prefer to use the more discrete Kiss. With intent and a careful
 bite the victim feels pleasure rather than pain from the bite, and the wound
 furthermore seals itself without trace afterwards allowing the victim to be
 blissfully ignorant of what happened. The pleasant sensation only affects
-mundane creatures and kindred with less Blood Potency than the one biting.
+mundane creatures and kindred with less [Blood Potency](blood-potency.md) than
+the one biting.
 
 ### Blush of Life
 

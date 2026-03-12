@@ -8,7 +8,7 @@ govern Kindred society — and most likely to be found at the top of them. This 
 not coincidence. The Ventrue cultivate leadership the way other clans cultivate
 other things, and they have been doing it for a very long time.
 
-Their disciplines are:
+Their [powers](powers-of-the-blood.md) are:
 
 - **[Dominate](dominate.md)**
 - [Animalism](animalism.md)
@@ -29,5 +29,6 @@ The Ventrue's fingerprints are on much of Kindred political history. The
 structures most domains take for granted — the role of Prince, the system of
 acknowledged territory, the conventions of fealty — are largely Ventrue exports,
 spread through centuries of political dominance. Their relationship with the
-Invictus is deep and longstanding, though not exclusive; Ventrue are found
-across covenants, bringing their instinct for structure wherever they go.
+[Invictus](invictus.md) is deep and longstanding, though not exclusive; Ventrue
+are found across [covenants](covenants.md), bringing their instinct for
+structure wherever they go.

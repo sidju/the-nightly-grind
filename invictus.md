@@ -2,10 +2,11 @@
 
 #lore #covenants
 
-The Invictus are the old guard. Where other covenants are defined by belief,
-practice, or ideology, the Invictus are defined by power: its acquisition, its
-preservation, and its orderly transfer. They are the covenant of aristocracy,
-hierarchy, and feudal obligation — the covenant that most resembles a kingdom.
+The Invictus are the old guard. Where other [covenants](covenants.md) are
+defined by belief, practice, or ideology, the Invictus are defined by power: its
+acquisition, its preservation, and its orderly transfer. They are the covenant
+of aristocracy, hierarchy, and feudal obligation — the covenant that most
+resembles a kingdom.
 
 ## Tradition as Authority
 

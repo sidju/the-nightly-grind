@@ -42,10 +42,10 @@ for those who wish to capture rather than destroy a Kindred.
 
 ## Torpor
 
-When a vampire's HP is reduced to zero they do not die — they fall into torpor,
-a deep and dreamless sleep from which they cannot be roused by ordinary means.
-Torpor can last years or centuries if undisturbed. Time spent in torpor does not
-count toward [Blood Potency](blood-potency.md) advancement.
+When a vampire's [HP](hp.md) is reduced to zero they do not die — they fall into
+torpor, a deep and dreamless sleep from which they cannot be roused by ordinary
+means. Torpor can last years or centuries if undisturbed. Time spent in torpor
+does not count toward [Blood Potency](blood-potency.md) advancement.
 
 ## Final Death
 

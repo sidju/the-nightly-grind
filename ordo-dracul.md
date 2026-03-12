@@ -3,26 +3,27 @@
 #lore #covenants
 
 The Ordo Dracul are scholars and ascetics, the covenant of those who refuse to
-accept the limits of their condition. Where other covenants make their peace
-with what it means to be Kindred — through religious framing, political
-structure, or philosophical acceptance — the Ordo Dracul regard vampiric
-existence as a problem to be solved. They are, above all else, a covenant of
-transformation.
+accept the limits of their condition. Where other [covenants](covenants.md) make
+their peace with what it means to be Kindred — through religious framing,
+political structure, or philosophical acceptance — the Ordo Dracul regard
+vampiric existence as a problem to be solved. They are, above all else, a
+covenant of transformation.
 
 ## The Dragon's Philosophy
 
 The covenant was founded, they claim, by Vlad Tepes — Dracula — who after his
 death and resurrection set himself to understanding and ultimately transcending
-the Kindred condition. The core teaching is that the Kindred are trapped: bound
-by the sun, by fire, by hunger, by the pull of the Beast. These are not divine
-mandates or natural facts but chains. And chains can be broken.
+the [Kindred condition](kindred-condition.md). The core teaching is that the
+Kindred are trapped: bound by the sun, by fire, by hunger, by the pull of the
+Beast. These are not divine mandates or natural facts but chains. And chains can
+be broken.
 
-This gives the Ordo Dracul an orientation unique among the covenants:
-fundamentally introspective and experimental, concerned less with power over
-others than with mastery over the self. This does not make them harmless — a
-covenant of vampires engaged in a great work of self-perfection can be ruthless
-in its pursuit — but it does set them somewhat apart from the political contests
-that consume most of Kindred society.
+This gives the Ordo Dracul an orientation unique among the
+[covenants](covenants.md): fundamentally introspective and experimental,
+concerned less with power over others than with mastery over the self. This does
+not make them harmless — a covenant of vampires engaged in a great work of
+self-perfection can be ruthless in its pursuit — but it does set them somewhat
+apart from the political contests that consume most of Kindred society.
 
 ## Coils of the Dragon
 

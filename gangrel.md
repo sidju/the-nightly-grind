@@ -8,7 +8,7 @@ honest acknowledgement of what they are. They are wanderers and predators, more
 at home in the wild or the margins of society than in courts and drawing rooms.
 Other Kindred sometimes underestimate them for this. That is usually a mistake.
 
-Their disciplines are:
+Their [powers](powers-of-the-blood.md) are:
 
 - **[Protean](protean.md)**
 - [Animalism](animalism.md)
@@ -18,9 +18,9 @@ Their disciplines are:
 
 When a Gangrel frenzies, the Beast slips through in a physical sense. Animal
 features manifest during frenzy — fur, claws, eyes that catch the dark — and
-unlike the controlled changes of Protean, these do not simply revert. They fade
-slowly over subsequent nights, leaving the Gangrel visibly marked by what their
-Beast did and how long it ran.
+unlike the controlled changes of [Protean](protean.md), these do not simply
+revert. They fade slowly over subsequent nights, leaving the Gangrel visibly
+marked by what their Beast did and how long it ran.
 
 ## History
 

@@ -10,16 +10,18 @@ Each clan also carries a unique weakness of its own; see [Clans](clans.md).
 
 ## Sunlight
 
-Sunlight is lethal to the Kindred. Any exposure deals aggravated damage each
-round, and total exposure — being caught in full daylight with no shelter — will
-kill a vampire rapidly regardless of HP. Brief exposure through glass, clothing,
-or shadow still deals damage but at a reduced rate.
+Sunlight is lethal to the Kindred. Any exposure deals
+[aggravated](aggravated.md) damage each round, and total exposure — being caught
+in full daylight with no shelter — will kill a vampire rapidly regardless of
+[HP](hp.md). Brief exposure through glass, clothing, or shadow still deals
+damage but at a reduced rate.
 
 ## Fire
 
-Fire deals aggravated damage and triggers Rötschreck, the terror response of the
-Beast that compels total flight. Unlike sunlight, fire can be endured with
-sufficient will, but the Beast must be fought every moment it is present.
+Fire deals [aggravated](aggravated.md) damage and triggers Rötschreck, the
+terror response of the Beast that compels total flight. Unlike sunlight, fire
+can be endured with sufficient will, but the Beast must be fought every moment
+it is present.
 
 ## Decapitation
 

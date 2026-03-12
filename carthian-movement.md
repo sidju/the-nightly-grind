@@ -2,10 +2,10 @@
 
 #lore #covenants
 
-The Carthians are the youngest of the major covenants and the most overtly
-political in a mortal sense. Where other covenants draw from theology,
-tradition, or ancient mysticism, the Carthians draw from the political thought
-of the modern world: democracy, socialism, republicanism, and the many
+The Carthians are the youngest of the major [covenants](covenants.md) and the
+most overtly political in a mortal sense. Where other covenants draw from
+theology, tradition, or ancient mysticism, the Carthians draw from the political
+thought of the modern world: democracy, socialism, republicanism, and the many
 experiments humans have run with self-governance. They believe vampire society
 can be better, and they intend to make it so.
 
@@ -13,10 +13,10 @@ can be better, and they intend to make it so.
 
 The Carthian critique of Kindred society is simple: the structures that govern
 it — Prince, Primogen, feudal fealty — exist to concentrate power in old hands
-and keep the young compliant. The Invictus in particular are the natural
-antagonist of any meaningful reform, though the Carthians reserve criticism for
-any structure that treats age and accumulated power as the only legitimate basis
-for authority.
+and keep the young compliant. The [Invictus](invictus.md) in particular are the
+natural antagonist of any meaningful reform, though the Carthians reserve
+criticism for any structure that treats age and accumulated power as the only
+legitimate basis for authority.
 
 What the Carthians want in its place varies by member. Some are committed
 democrats who want a genuine vote. Some are more radical. The covenant is
@@ -28,11 +28,11 @@ is both a strength and a persistent source of internal friction.
 
 The Carthians have developed a form of collective supernatural binding called
 Carthian Law: oaths sworn not to a lord but to a principle or a community. Where
-Invictus oaths bind vertically — lord to vassal — Carthian Law binds
-horizontally, creating protective and binding effects across a group of peers.
-Though young compared to Theban Sorcery or Cruac, many domains have quickly
-adopted it as a practical tool for ensuring order and stability among peers who
-would not bow to a lord.
+[Invictus](invictus.md) oaths bind vertically — lord to vassal — Carthian Law
+binds horizontally, creating protective and binding effects across a group of
+peers. Though young compared to Theban Sorcery or Cruac, many domains have
+quickly adopted it as a practical tool for ensuring order and stability among
+peers who would not bow to a lord.
 
 ## History
 

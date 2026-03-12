@@ -24,8 +24,8 @@ The prices for them can be seen in the following table:
 | [Humanity](humanity.md)                             | 7       |
 | Any [Influence](influence.md)                       | 4       |
 
-XP costs for powers increase for each level, and Clan powers are significantly
-cheaper than others.
+XP costs for powers increase for each level, and [Clan](clans.md) powers are
+significantly cheaper than others.
 
 | [Clan](clans.md) [Powers](powers-of-the-blood.md) | XP cost |
 | ------------------------------------------------- | ------- |
@@ -44,7 +44,8 @@ cheaper than others.
 (`3 * (2 + 2 ^ level)`)
 
 (An option is making Other Powers just cost 3 extra, but I like the way that
-these costs encourage you to not reach level 3 outside of Clan Powers)
+these costs encourage you to not reach level 3 outside of [Clan](clans.md)
+Powers)
 
 ## Recommendations
 
@@ -56,11 +57,12 @@ priority and strive to add some mitigation for the weakest.
 
 For example, when creating a character with priority Organization, Mental,
 Physical:
-- Add a mitigation for your physical weakness; extra HP, a discipline that
-  allows escaping or avoiding combat.
+
+- Add a mitigation for your physical weakness; extra [HP](hp.md), a
+  [power](powers-of-the-blood.md) that allows escaping or avoiding combat.
 - Put the rest of the XP into your higher priorities. If there is too little XP
-  left after the mitigation (probable for very young kindred), feel free to
-  drop that and be truly very weak.
+  left after the mitigation (probable for very young kindred), feel free to drop
+  that and be truly very weak.
 
 ### Think twice before choosing 3:rd level Powers
 
@@ -73,10 +75,13 @@ choice, but for defining the character they thus become more impactful.
 They are very significantly changed compared to both Vampire the Masquerade and
 Vampire the Requiem.
 
-### Don't lock yourself into even triplets of Physical Ability
+### Don't lock yourself into even triplets of [Physical Ability](physical-ability.md)
 
 It is easy to focus on the inherent damage that increases on even threes, but
-adding one or two extra Physical Ability can be very useful in some cases:
+adding one or two extra [Physical Ability](physical-ability.md) can be very
+useful in some cases:
+
 - +3 weapons are very conspicuous, so making it possible to use +2 or +1 and
   still getting the damage boost improves combat flexibility.
-- [Duels](duel.md) are decided on exact Physical Ability, so every bit helps.
+- [Duels](duel.md) are decided on exact [Physical Ability](physical-ability.md),
+  so every bit helps.

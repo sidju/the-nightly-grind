@@ -39,4 +39,4 @@ holding onto you are hidden at level 1 of Obfuscation.
 
 By marking its border with vitae you can claim a domain, hiding it from mundane
 senses and controlling what those within can perceive. It remains in your
-control for one week per Blood Potency.
+control for one week per [Blood Potency](blood-potency.md).

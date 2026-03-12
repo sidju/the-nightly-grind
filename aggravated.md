@@ -16,7 +16,7 @@ notably the black vitae poison of
 
 ## Effect
 
-While a Kindred carries aggravated damage they heal at only 1 HP per night,
-regardless of [Blood Potency](blood-potency.md). The poisoning does not leave
-them until they have fully healed — only once all damage is gone can the body
-finally push out the hostile essence.
+While a Kindred carries aggravated damage they heal at only 1 [HP](hp.md) per
+night, regardless of [Blood Potency](blood-potency.md). The poisoning does not
+leave them until they have fully healed — only once all damage is gone can the
+body finally push out the hostile essence.

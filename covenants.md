@@ -3,8 +3,8 @@
 #index #lore #rules
 
 A covenant is a political and philosophical allegiance — chosen, not inherited.
-Where a clan is a matter of blood, a covenant is a matter of belief and
-ambition. Kindred join covenants because they find in them a worldview that
+Where a [clan](clans.md) is a matter of blood, a covenant is a matter of belief
+and ambition. Kindred join covenants because they find in them a worldview that
 matches their own, or because the covenant offers something they want: power,
 community, knowledge, or purpose.
 

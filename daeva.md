@@ -8,7 +8,7 @@ the hunt. They are seductive and magnetic, and they know it. Whether this makes
 them charming or dangerous depends entirely on the individual, and often it is
 both.
 
-Their disciplines are:
+Their [powers](powers-of-the-blood.md) are:
 
 - **[Presence](presence.md)**
 - [Celerity](celerity.md)

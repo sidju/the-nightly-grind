@@ -21,8 +21,8 @@ are:
 | Source            | Effect                                            |
 | ----------------- | ------------------------------------------------- |
 | Senses            | Heightened perception                             |
-| Claws/bite/spurs  | +2 weapon bonus                                   |
-| Hardy skin        | +4 HP                                             |
+| Claws/bite/spurs  | +2 [weapon bonus](equipment.md#melee-weapons)     |
+| Hardy skin        | +4 [HP](hp.md)                                    |
 | Quadrupedal limbs | Improved stability and running speed              |
 | Patagia/wings     | Gliding capability, no fall damage                |
 | Wall climbing     | Spider-like adhesion to vertical surfaces         |
@@ -50,19 +50,19 @@ human, corrupting it with a horrifying supernatural aspect. Horrid Aspect can be
 active alongside Predatory Aspect, provided they do not affect the same body
 part.
 
-| Source                      | Effect                                       |
-| --------------------------- | -------------------------------------------- |
-| Claws, teeth, or bone spurs | +5 weapon bonus                              |
-| Vitae poison (black)        | [Aggravated](aggravated.md) damage           |
-| Vitae poison (red)          | Forces vitae imbibition (blood bond)         |
-| Extra limbs                 | Additional limbs for weapons or grappling    |
-| Elongated arms or fingers   | Extended melee reach                         |
-| Unhinged jaw                | Widened, ferocious bite                      |
-| Tentacles                   | Grappling and entangling limbs               |
-| Chitinous armor             | +6 HP                                        |
-| Thick slime                 | +4 HP, significantly harder to grip or stake |
-| Wings                       | Flight                                       |
-| Void eyes                   | Enhanced sight, eye contact impossible       |
+| Source                      | Effect                                                |
+| --------------------------- | ----------------------------------------------------- |
+| Claws, teeth, or bone spurs | +5 weapon bonus                                       |
+| Vitae poison (black)        | [Aggravated](aggravated.md) damage                    |
+| Vitae poison (red)          | Forces vitae imbibition (blood bond)                  |
+| Extra limbs                 | Additional limbs for weapons or grappling             |
+| Elongated arms or fingers   | Extended melee reach                                  |
+| Unhinged jaw                | Widened, ferocious bite                               |
+| Tentacles                   | Grappling and entangling limbs                        |
+| Chitinous armor             | +6 [HP](hp.md)                                        |
+| Thick slime                 | +4 [HP](hp.md), significantly harder to grip or stake |
+| Wings                       | Flight                                                |
+| Void eyes                   | Enhanced sight, eye contact impossible                |
 
 Vitae poison only remains active for around a minute after leaving contact with
 the one producing it.
@@ -78,8 +78,9 @@ evaporate and disappear into thin air, but you cannot cause any damage.
 ### 3: Horrid Form
 
 You allow the beast to fully shape you, taking on a monstrous form unique to
-you. This form allows you to add your blood potency in additional Predatory or
-Horrid Aspects on top of the base one already granted (aka. 2 + BP total).
+you. This form allows you to add your [blood potency](blood-potency.md) in
+additional Predatory or Horrid Aspects on top of the base one already granted
+(aka. 2 + BP total).
 
 Players are encouraged to write down a description of their chosen combination
 and its resulting appearance (and should feel free to throw in any number of
