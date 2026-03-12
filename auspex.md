@@ -6,11 +6,11 @@
 
 You can perceive primary emotions.
 
-## 1: The Beast's Hackles
+## 1: Predator's Eye
 
-Your beast senses when something is wrong, when someone or something big is
-hidden, but cannot tell you what. It exhibits as a feeling of being watched or a
-sense of deja-vu.
+Your beast instantly sizes up a target, giving you a gut read on how dangerous
+they are, whether they're armed or injured, and how easily they could be taken
+down.
 
 ## 2: The Spirit's Touch
 

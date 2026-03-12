@@ -21,10 +21,10 @@ are:
 | Source            | Effect                                            |
 | ----------------- | ------------------------------------------------- |
 | Senses            | Heightened perception                             |
-| Mundane claws     | +3 weapon bonus                                   |
+| Claws/bite/spurs  | +2 weapon bonus                                   |
 | Hardy skin        | +4 HP                                             |
 | Quadrupedal limbs | Improved stability and running speed              |
-| Patagia           | Gliding capability, no fall damage                |
+| Patagia/wings     | Gliding capability, no fall damage                |
 | Wall climbing     | Spider-like adhesion to vertical surfaces         |
 | Prehensile tail   | Improved balance and an additional grappling limb |
 
@@ -39,7 +39,9 @@ to take its form subsequent nights. You can remember one form per 3
 [Mental Ability](mental-ability.md), adding a new one beyond these requires
 discarding one of the old ones. The transformation is a violent process of
 cracking bones and cramp-like movements that folds you down until you reach the
-form, it is painful but not excessively and not harmful.
+form, it is painful but not excessively and not harmful. While in the form you
+receive the Predatory Aspect bonuses for all applicable aspects of that animal,
+and flight is fully functional rather than merely gliding.
 
 ### 2: Horrid Aspect
 
@@ -62,6 +64,9 @@ part.
 | Wings                       | Flight                                       |
 | Void eyes                   | Enhanced sight, eye contact impossible       |
 
+Vitae poison only remains active for around a minute after leaving contact with
+the one producing it.
+
 ### 3: Primal Miasma
 
 You release the trappings of your mundane form and evaporate into a cloud of
@@ -74,9 +79,7 @@ evaporate and disappear into thin air, but you cannot cause any damage.
 
 You allow the beast to fully shape you, taking on a monstrous form unique to
 you. This form allows you to add your blood potency in additional Predatory or
-Horrid Aspects on top of the base one already granted (aka. 2 + BP total). These
-additional Aspects are allowed to reinforce preexisting aspects once, to for
-example give double the claw bonus or wings strong enough to carry others.
+Horrid Aspects on top of the base one already granted (aka. 2 + BP total).
 
 Players are encouraged to write down a description of their chosen combination
 and its resulting appearance (and should feel free to throw in any number of

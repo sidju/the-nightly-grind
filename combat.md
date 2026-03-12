@@ -12,8 +12,8 @@ To understand this you should be familiar with the base concepts of:
 - [Ranged damage](#ranged-damage)
 
 Combat is a true battle where characters deal damage to each other, for
-non-lethal duels or brawls instead refer to the [Brawl rules](brawl.md) which
-cover such cases better.
+non-lethal contests instead refer to the [Duel rules](duel.md) which cover such
+cases better.
 
 ## Initiative
 

@@ -45,3 +45,38 @@ cheaper than others.
 
 (An option is making Other Powers just cost 3 extra, but I like the way that
 these costs encourage you to not reach level 3 outside of Clan Powers)
+
+## Recommendations
+
+### Avoid min-maxing, especially for older characters
+
+It is tempting to put everything into one aspect of play, but that often becomes
+frustrating in the longer term. A more balanced approach is to order them by
+priority and strive to add some mitigation for the weakest.
+
+For example, when creating a character with priority Organization, Mental,
+Physical:
+- Add a mitigation for your physical weakness; extra HP, a discipline that
+  allows escaping or avoiding combat.
+- Put the rest of the XP into your higher priorities. If there is too little XP
+  left after the mitigation (probable for very young kindred), feel free to
+  drop that and be truly very weak.
+
+### Think twice before choosing 3:rd level Powers
+
+Due to the escalating XP cost for higher levels of powers it technically isn't
+worth getting the 3:rd level. So if the goal is efficiency they are a bad
+choice, but for defining the character they thus become more impactful.
+
+### Double check the Powers
+
+They are very significantly changed compared to both Vampire the Masquerade and
+Vampire the Requiem.
+
+### Don't lock yourself into even triplets of Physical Ability
+
+It is easy to focus on the inherent damage that increases on even threes, but
+adding one or two extra Physical Ability can be very useful in some cases:
+- +3 weapons are very conspicuous, so making it possible to use +2 or +1 and
+  still getting the damage boost improves combat flexibility.
+- [Duels](duel.md) are decided on exact Physical Ability, so every bit helps.
