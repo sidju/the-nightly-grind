@@ -10,7 +10,7 @@ returns in the future.
 Influences can be acquired in two ways:
 
 - Purchased directly with [XP](xp.md)
-- Constructed by spending other influences, limited by
+- Constructed as [Investments](investments.md), limited by
   [Organizational Ability](organizational-ability.md)
 
 The mechanical rules for spending and constructing influences are in the

@@ -91,6 +91,7 @@ table follows for both [Powers](powers-of-the-blood.md) and
 | [Investment](investments.md) | Benefit             |
 | ---------------------------- | ------------------- |
 | Haven                        | Safe place to sleep |
+| Personal lawyer              | Law 1               |
 
 | [Influence](influences.md) | level |
 | -------------------------- | ----- |
