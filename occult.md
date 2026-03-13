@@ -1,5 +1,5 @@
 # Occult
 
-#rules #influences
+#influences
 
 Secret societies, occult practitioners, and repositories of mystical knowledge.

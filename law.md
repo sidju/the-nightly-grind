@@ -1,5 +1,5 @@
 # Law
 
-#rules #influences
+#influences
 
 The courts and bureaucracies of law along with all those working within them.

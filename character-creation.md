@@ -57,6 +57,12 @@ Especially note the the unique choices you can use to shape your character:
 Characters gain 24 [XP](xp.md) as a base and 2 XP per active year of existence.
 View the [XP page](xp.md#using-xp) for what you can spend it on.
 
+## Investments
+
+Based on your [OA](organizational-ability.md), you may have one
+[Investment](influence-system.md) per 2 OA (round down). Collaborate with a
+Storyteller to define each investment and write them into your character sheet.
+
 ## Calculated values
 
 Finally when you have all your stats you are recommended to note down your

@@ -1,5 +1,5 @@
 # Industry
 
-#rules #influences
+#influences
 
 Both construction companies and industries along with their workers.

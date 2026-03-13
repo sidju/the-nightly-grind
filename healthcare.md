@@ -1,5 +1,5 @@
 # Healthcare
 
-#rules #influences
+#influences
 
 Hospitals, clinics, pharmacies, and their staff.

@@ -50,6 +50,12 @@ world to suit their purposes. For a listing of the influences see the
 [Influences page](influences.md), for a description of how influencing human
 society works see the [Influence System page](influence-system.md).
 
+## [Investments](influence-system.md)
+
+[Investments](influence-system.md) are concrete benefits built from your sphere
+of influence. You may have one per 2 [OA](organizational-ability.md) (round
+down).
+
 ## Calculated values
 
 Optionally you are recommended to write down some calculated values:
@@ -82,6 +88,10 @@ table follows for both [Powers](powers-of-the-blood.md) and
 | [OA](organizational-ability.md) | 5   |
 | Hu                              | 6   |
 | BP                              | 3   |
+
+| [Investment](influence-system.md) | Benefit             |
+| --------------------------------- | ------------------- |
+| Haven                             | Safe place to sleep |
 
 | [Influence](influences.md) | level |
 | -------------------------- | ----- |
