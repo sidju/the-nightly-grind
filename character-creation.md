@@ -60,7 +60,7 @@ View the [XP page](xp.md#using-xp) for what you can spend it on.
 ## Investments
 
 Based on your [OA](organizational-ability.md), you may have one
-[Investment](influence-system.md) per 2 OA (round down). Collaborate with a
+[Investment](investments.md) per 2 OA (round down). Collaborate with a
 Storyteller to define each investment and write them into your character sheet.
 
 ## Calculated values
