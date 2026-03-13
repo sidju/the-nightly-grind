@@ -9,6 +9,7 @@ generate: check
     --ignore-paths output \
     --ignore-paths ".*" \
     --ignore-paths "*.draft.md" \
+    --ignore-paths Justfile \
     --index-filename resources/search-data.js \
     . \
     output
