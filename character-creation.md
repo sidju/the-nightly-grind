@@ -2,7 +2,8 @@
 
 #index #rules
 
-Follow the instructions below to fill in a
+First write a [character description](character-description.md), then follow the
+instructions below to fill in a
 [character sheet](character-sheet.md#example-sheet).
 
 ## Background info
